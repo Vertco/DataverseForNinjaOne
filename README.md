@@ -1,7 +1,15 @@
-# Dataverse for NinjaOne
+![DataverseForNinjaOne](https://user-images.githubusercontent.com/47614276/209544038-e8faa894-a9a6-4f8f-997d-a2a5c0a680db.png)
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=PLM7Q4RRJK48N" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-green.svg"/>
+  </a>
+</p>
 
+---
+
+# Dataverse for NinjaOne
 ## What is this?
-This is a custom connector for [Microsoft Power Apps](https://powerapps.microsoft.com/en-us) to connect to the data of [NinjaOne](https://www.ninjaone.com/).<br>
+This is a custom Dataverse connector for [Microsoft Power Apps](https://powerapps.microsoft.com/) and [Microsoft Power Automate](https://powerautomate.microsoft.com/) to connect to the data of [NinjaOne](https://www.ninjaone.com/).<br>
 This is done using the [NinjaOne public API](https://app.ninjarmm.com/apidocs/) provided by NinjaOne.
 
 ## What does it do?
