@@ -25,7 +25,7 @@ and click on `Add` to create a new Client app
 
 ## Connector creation
 1. Go to [make.powerapps.com](https://make.powerapps.com) and open `Dataverse` > `Custom Connectors`
-2. Click on `New custom connector` > `Import an OpenAPI file` and select the DataverseForNinjaOne.swagger.json file from this repo.
+2. Click on `New custom connector` > `Import an OpenAPI file` and select the [DataverseForNinjaOne.swagger.json](https://raw.githubusercontent.com/Vertco/DataverseForNinjaOne/main/DataverseForNinjaOne.swagger%2Cjson) file from this repo.
 3. Fill the `1. General` tab with your NinjaOne URL and the `2. Security` tab as shown below:<br>
 ![items (2)](https://user-images.githubusercontent.com/47614276/209540765-185bd034-3394-414d-a536-a54c9988b2d9.png)
 5. Click on `Create connector` 
