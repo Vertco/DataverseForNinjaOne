@@ -11,7 +11,7 @@ It allows you to get data from NinjaOne inside of you Microsoft Power App.
 1. In Ninja, navigate to `Administration` > `Apps` > `API` or click [here](https://eu.ninjarmm.com/#/administration/apps/api) (EU instance)<br>
 and click on `Add` to create a new Client app
 2. Fill in the Application Configuration as shown below<br>
-![items](https://user-images.githubusercontent.com/47614276/209540565-18bf3063-1672-41bb-a89b-21bc285ca835.png)
+![Screenshot 2022-12-26 122155](https://user-images.githubusercontent.com/47614276/209543481-de3b9030-fe69-489d-ad2c-4ed3b1aefa1a.png)
 3. Click on `Save` and take note of the client secret
 4. Click on `Close` and then take note of the client ID
 
